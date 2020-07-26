@@ -55,10 +55,16 @@
     <!-- Custom Theme Style -->
     <link href="../build/css/custom.min.css" rel="stylesheet">
     <link rel="shortcut icon" href="images/masker1.jpg" />
+    <style>
+        body {
+            background-image: url(images/2.jpg);
+        }
+    </style>
+
   </head>
 
   <body>
-    <div class="container body">
+    <div class="">
       <div class="main_container">
         
         <!-- page content -->
