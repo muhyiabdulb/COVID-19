@@ -81,14 +81,13 @@
               <div class="col-md-12 col-sm-12  ">
                 <div class="x_panel">
                   <div class="x_title">
-                    <h5><?php echo "Selamat Datang "."<u>".@$_SESSION['nama'];"</u>" ?></h5>
+                    
+                    <h5><?php echo "<center> Penilaian Resiko Pribadi Tertular COVID-19 "."<u>".@$_SESSION['nama'];"</u></center>" ?></h5>
           
                     <div class="clearfix"></div>
                   </div>
 
                   <div class="x_content">
-
-                    <h2>Penilaian Resiko Pribadi terkait COVID 19</h2>
 
                     <div class="table-responsive">
                       <table class="table table-striped jambo_table bulk_action">
@@ -361,7 +360,7 @@
                           <tr>
                             <td colspan="4">
                               <div align="center">
-                                <button type="submit" autofocus name="hasil" class="btn btn-success">AL - HASIL!</button>
+                                <button type="submit" autofocus name="hasil" class="btn btn-success">AL - HASIL !!!</button>
                               </div>
                             
                             </td>                            
@@ -370,7 +369,7 @@
                       </table>
                       <center>
                         <p><strong>Created by</strong> <a href="https://github.com/muhyiabdulb" target="blank"> : @Muhyi Abdul Basith</a></p>
-                        <b><u> Copyright © PeriksaCovid-19 2020</u></b>
+                        <b><u> Copyright © 2020 PeriksaCovid-19</u></b>
                       </center>
                     </div>
                   </form>

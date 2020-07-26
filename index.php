@@ -53,7 +53,7 @@
              <form method="post" action="">
               <center>
                 <h1>Kuyyy Cari Tahu...</h1>
-                <h2>Seberapa kuatkah tubuh Anda untuk tidak terinfeksi COVID 19</h2>
+                <h2>Seberapa kuatkah tubuh Anda untuk tidak terinfeksi COVID-19 ???</h2>
                 <img src="images/favicon.jpg"> 
                 <br> <br>
                 <button name="mulai" class="btn btn-success" autofocus>Mulai!</button>
@@ -62,7 +62,7 @@
                 <br>
                 <br>
                 <p><strong>Created by</strong> <a href="https://github.com/muhyiabdulb" target="blank"> : @Muhyi Abdul Basith</a></p>
-                <b> <u> Copyright © PeriksaCovid-19 2020 </u></b>
+                <b><u> Copyright © 2020 PeriksaCovid-19</u></b>
               </center>
             </form>
           </div>

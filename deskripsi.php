@@ -1,4 +1,4 @@
-<?php 
+  <?php 
 
   session_start();
   if (!isset($_SESSION["mulai"])) {
@@ -67,12 +67,12 @@
               <form method="post" action="">
                 <center>
                   <h1><?php echo "Hasil ".@$_SESSION['nama']; ?><?php echo ", "; ?></h1>
-                  <h3><?php echo "Resiko Anda untuk tertular penyakit COVID 19 adalah <b>".@$_SESSION['deskripsi']; "</b>"?></h2>
+                  <h3><?php echo "Resiko Anda untuk tertular penyakit COVID-19 adalah <b>".@$_SESSION['deskripsi']; "</b>"?></h2>
                     <br>
-                  <h3>Ingat!!! Apapun hasilnya harus TENANG dan WASPADA!!!</h3>
+                  <h3>Ingat ! Apapun hasilnya harus TENANG dan WASPADA !!!</h3>
                   <br>
                   <br>
-                  <h4>Silahkan <b>Klik tombol dibawah ini</b> untuk memulai kembali!</h4>
+                  <h4>Silahkan <b>Klik tombol dibawah ini</b> untuk memulai kembali !</h4>
                   <button name="kembali" autofocus="autofocus" class="btn btn-success">Mulai lagi kuyyy!!!</button>
                   <br>
                   <br>
@@ -80,7 +80,7 @@
                   <br>
                   <br>
                   <p><strong>Created by</strong> <a href="https://github.com/muhyiabdulb" target="blank"> : @Muhyi Abdul Basith</a></p>
-              <b> <u> Copyright © PeriksaCovid-19 2020</u></b>
+                 <b><u> Copyright © 2020 PeriksaCovid-19</u></b>
                 </center>
               </form>
               <center>

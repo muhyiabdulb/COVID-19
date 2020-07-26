@@ -64,7 +64,7 @@
                 <div class=" col-sm-12">
                   <div class="x_panel">
                     <div class="x_title">
-                      <h2>Isi Biodata Anda</h2>
+                      <h2>Isi biodata anda</h2>
                     <ul class="nav navbar-right panel_toolbox">
                     </ul>
                     <div class="clearfix"></div>
@@ -81,7 +81,7 @@
                         </div>
                       </div>
                       <div class="item form-group">
-                        <label class="col-form-label col-md-3 col-sm-3 label-align">Jenis Kelamin</label>
+                        <label class="col-form-label col-md-3 col-sm-3 label-align">Jenis Kelamin <span class="re">*</span></label>
                         <div class="col-md-6 col-sm-6 ">
                           <div id="jk" class="btn-group" data-toggle="buttons">
                             <label class="btn btn-secondary" data-toggle-class="btn-primary" data-toggle-passive-class="btn-default">
@@ -111,7 +111,7 @@
                       <br>
                       <center>
                         <p><strong>Created by</strong> <a href="https://github.com/muhyiabdulb" target="blank"> : @Muhyi Abdul Basith</a></p>
-                        <b> <u> Copyright © PeriksaCovid-19 2020</u></b>
+                        <b><u> Copyright © 2020 PeriksaCovid-19</u></b>
                       </center>
                     </form>
                   </div>
