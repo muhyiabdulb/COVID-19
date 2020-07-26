@@ -38,15 +38,10 @@
 
     <!-- Custom Theme Style -->
     <link href="../build/css/custom.min.css" rel="stylesheet">
-    <style>
-        body {
-            background-image: url(images/1.png);
-        }
-    </style>
   </head>
 
   <body>
-    <div class="">
+    <div class="container body">
       <div class="main_container">
         
         <!-- page content -->
@@ -59,7 +54,7 @@
               <center>
                 <h1>Kuyyy Cari Tahu...</h1>
                 <h2>Seberapa kuatkah tubuh Anda untuk tidak terinfeksi COVID-19 ???</h2>
-                <img src=""> 
+                <img src="images/favicon.jpg"> 
                 <br> <br>
                 <button name="mulai" class="btn btn-success" autofocus>Mulai!</button>
                 <br>
